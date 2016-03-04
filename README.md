@@ -1,4 +1,4 @@
-# [Node.js - javascript everywhere](https://www.facebook.com/events/1018094141597050/)
+# [Node.js - javascript everywhere](http://slides.com/vitorfernandes/nodejs-everywhere#/)
 ![](assets/js-everywhere.jpg)
 
 ## Summary
